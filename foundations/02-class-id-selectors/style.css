@@ -1,8 +1,18 @@
-.odd-number, .odd-number.cooler {
+.odd-number{
     background-color: #FFCCCB;
-    font-family: "Verdana", "Dejavu Sans", "sans-serif";
+    font-family: "Verdana", "Dejavu Sans", sans-serif;
 }
 
-.odd-number.cooler {
-    font-size: ;
+.cooler {
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: greenyellow;
+    font-weight: bold;
 }
